@@ -1,0 +1,36 @@
+
+h1,span,.card-footer, .fs-5, .fw-bolder{
+  color: darkmagenta !important;
+}
+
+h2,h3,h4,h5,h6{
+  color: black !important;
+}
+
+.bg-dark,.bg-header {
+ background-color: purple !important;
+}
+
+p{
+color: indigo !important;
+}
+
+span, .navbar-brand{
+  color: darkviolet;
+}
+ .nav-link, .navbar-brand{
+  color: white !important;
+}
+
+.btn-outline-dark {
+  color: #fff;
+  border-color: #fff;
+}
+.btn-outline-dark:hover {
+  color: #fff;
+  background-color: #212529;
+  border-color: #212529;
+}
+.magenta{
+   color: darkmagenta !important;
+ }
